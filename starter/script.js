@@ -27,9 +27,12 @@ if (money) {
 // "Both win the trophy" if their average scores are equal.
 
 // TEST DATA: Dolphins scored 96, 108, and 89. Koalas scored 88, 91, and 110.
-const Davg = 146.5;
+// Davg = 96+ 108 + 89/3
+// Kavg = 88+ 91+ 110/3
 
-const Kavg = 144.5;
+const Davg = 97.6;
+
+const Kavg = 96.3;
 if (Davg > Kavg) {
   console.log("Dolphins win the trophy");
 } else {
