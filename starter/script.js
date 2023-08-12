@@ -30,14 +30,17 @@ if (money) {
 // Davg = 96+ 108 + 89/3
 // Kavg = 88+ 91+ 110/3
 
-const Davg = 97.6;
+// const Davg = 97.6;
 
-const Kavg = 96.3;
-if (Davg > Kavg) {
-  console.log("Dolphins win the trophy");
-} else {
-  console.log("Koalas win the trophy");
-}
-if (Davg === Kavg) {
-  console.log("Both win the trophy");
-}
+// const Kavg = 96.3;
+// if (Davg > Kavg) {
+//   console.log("Dolphins win the trophy");
+// } else {
+//   console.log("Koalas win the trophy");
+// }
+// if (Davg === Kavg) {
+//   console.log("Both win the trophy");
+// }
+
+const drink = 33 ? "win woter" : "win";
+console.log(drink);
