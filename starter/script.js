@@ -1,6 +1,6 @@
-let js = "kevi";
-if (js === "kevi") alert("hello world kev");
+// let js = "kevi";
 
-49 + 28 - 10;
+// console.log(49 + 28 - 10);
 
-console.log(49 + 28 - 10);
+let k = true;
+console.log(typeof k);
