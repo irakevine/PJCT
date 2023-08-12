@@ -41,6 +41,6 @@ if (money) {
 // if (Davg === Kavg) {
 //   console.log("Both win the trophy");
 // }
-
-const drink = 33 ? "win woter" : "win";
+const age = 4;
+const drink = age >= 18 ? "win" : "woter";
 console.log(drink);
