@@ -18,3 +18,5 @@ const friend2 = "Gillen";
 const friend3 = "Kessy";
 const friends = ["Kellen", "Gillen", "Kessy"];
 console.log(friends);
+
+console.log(friends[0]);
