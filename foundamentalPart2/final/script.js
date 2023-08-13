@@ -20,3 +20,4 @@ const friends = ["Kellen", "Gillen", "Kessy"];
 console.log(friends);
 
 console.log(friends[0]);
+console.log(friends.length);
