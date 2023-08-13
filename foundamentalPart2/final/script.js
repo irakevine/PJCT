@@ -12,3 +12,9 @@ function fruits(apples, mango) {
 }
 const appleJuice = fruits(7, 10);
 console.log(appleJuice);
+// array
+const friend1 = "Kellen";
+const friend2 = "Gillen";
+const friend3 = "Kessy";
+const friends = ["Kellen", "Gillen", "Kessy"];
+console.log(friends);
