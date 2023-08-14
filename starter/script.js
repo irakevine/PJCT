@@ -12,7 +12,7 @@ if (money) {
   console.log("you have a job");
 }
 // CHALLENGE #3
-// There are two gymnastics teams: Dolphins and Koalas. They complete against each other 3 times. The winner with the highest average score wins a trophy!
+/* There are two gymnastics teams: Dolphins and Koalas. They complete against each other 3 times. The winner with the highest average score wins a trophy! */
 
 // Your tasks:
 
@@ -44,6 +44,7 @@ if (money) {
 // const age = 4;
 // const drink = age >= 18 ? "win" : "woter";
 // console.log(drink);
+
 //////////////////////////////////////////////////////////////////
 // CHALLENGE #4
 // Steven needs a very simple tip calculator for whenever he goes to eat in a restaurant. In his country, it's usual to tip 15% if the bill value is between 50 and 300. If the value is different, the tip is 20%.
